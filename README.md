@@ -1,8 +1,8 @@
 # Hi, I'm Anurag 👋
 
-**AI/ML Engineer** — MS in Artificial Intelligence @ WPI (GPA 3.9). I build production-scale Generative AI systems, multimodal ML pipelines, and LLM-powered applications. Published researcher (ECML PKDD 2026, under review). Open to new-grad AI/ML roles.
+**AI/ML Engineer** — MS in Artificial Intelligence @ WPI. I build production-scale Generative AI systems, multimodal ML pipelines, and LLM-powered applications. Open to new-grad AI/ML roles.
 
-I work across computer vision, NLP, and end-to-end ML pipeline design — and I care about results that hold up out-of-distribution, not just on the test split.
+I work across computer vision, NLP, and end-to-end ML pipeline design.
 
 ## 🔬 Featured work
 
@@ -24,4 +24,4 @@ React + Supabase app for automated aptitude-question generation: 6 file formats,
 
 ## 📫 Reach me
 
-[LinkedIn](ADD_YOUR_LINKEDIN_URL) • [Portfolio](ADD_YOUR_PORTFOLIO_URL) • ADD_YOUR_PERSONAL_EMAIL
+[LinkedIn](www.linkedin.com/in/anurag-chinthalapati) • anurag.chinthalapati@gmail.com
